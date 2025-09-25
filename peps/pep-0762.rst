@@ -1,4 +1,4 @@
-PEP: 762
+@opensshEP: 762
 Title: REPL-acing the default REPL
 Author: Pablo Galindo Salgado <pablogsal@python.org>, Łukasz Langa <lukasz@python.org>, Lysandros Nikolaou <lisandrosnik@gmail.com>, Emily Morehouse-Valcarcel <emily@python.org>
 Sponsor: Pablo Galindo Salgado
